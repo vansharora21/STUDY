@@ -24,7 +24,7 @@ This project is a responsive landing page for "Study MBBS Abroad". It features c
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://vanshweb.netlify.app/)
 
 ## Report
 
